@@ -1,7 +1,10 @@
 {
     "cSpell.words": [
+        "dotenv",
         "Kamil",
         "Myśliwiec",
-        "nestframework"
+        "nestframework",
+        "pids"
     ],
+    "cSpell.language": "en,es-ES",
 }
